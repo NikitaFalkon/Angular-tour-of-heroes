@@ -87,8 +87,5 @@ export class HeroService {
     );
   }
 }
-<<<<<<< Updated upstream
-=======
 
-//aboba
->>>>>>> Stashed changes
+//some text
