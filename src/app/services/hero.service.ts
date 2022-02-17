@@ -87,7 +87,3 @@ export class HeroService {
     );
   }
 }
-
-//some text
-
-//master
