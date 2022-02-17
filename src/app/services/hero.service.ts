@@ -90,6 +90,4 @@ export class HeroService {
 
 //some text
 
-//main
-
-//min
+//master
